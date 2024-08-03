@@ -8,7 +8,7 @@ The project uses a Linear Regression algorithm for predicting house prices using
 ### Data Loading and Preprocessing:
 
 Loaded the dataset from https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data and
-Performed necessary preprocessing steps such as handling missing values, feature engineering, and normalization.
+performed necessary preprocessing steps such as handling missing values, feature engineering, and normalization.
 ### Exploratory Data Analysis (EDA):
 
 Analyzed the dataset to understand key trends, distributions, and relationships between features.
